@@ -1,1 +1,1 @@
-print("hello,Continuous Integration!")
+print("hello,CI!)
